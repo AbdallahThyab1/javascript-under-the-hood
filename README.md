@@ -71,3 +71,17 @@ javascript-under-the-hood/
 ├── 12-Projects/
 ├── Notes/
 └── Challenges/
+```
+---
+
+## 👨‍💻 Maintained By
+
+**Abdallah Thyab**  
+Computer Engineering Student  
+Software Engineering & Deep Learning Mindset
+
+---
+
+## 📄 License
+
+This repository is maintained for educational, engineering, and long-term technical reference purposes.
